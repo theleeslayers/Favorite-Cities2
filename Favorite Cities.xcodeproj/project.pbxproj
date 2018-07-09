@@ -15,6 +15,7 @@
 		8928A58D20F3A9F5002E1A60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8928A58B20F3A9F5002E1A60 /* LaunchScreen.storyboard */; };
 		8928A59820F3A9F5002E1A60 /* Favorite_CitiesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8928A59720F3A9F5002E1A60 /* Favorite_CitiesTests.swift */; };
 		8928A5A320F3A9F5002E1A60 /* Favorite_CitiesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8928A5A220F3A9F5002E1A60 /* Favorite_CitiesUITests.swift */; };
+		8928A5B120F3ACF9002E1A60 /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8928A5B020F3ACF9002E1A60 /* City.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8928A59E20F3A9F5002E1A60 /* Favorite CitiesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Favorite CitiesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8928A5A220F3A9F5002E1A60 /* Favorite_CitiesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favorite_CitiesUITests.swift; sourceTree = "<group>"; };
 		8928A5A420F3A9F6002E1A60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8928A5B020F3ACF9002E1A60 /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8928A58020F3A9F5002E1A60 /* AppDelegate.swift */,
 				8928A58220F3A9F5002E1A60 /* MasterViewController.swift */,
 				8928A58420F3A9F5002E1A60 /* DetailViewController.swift */,
+				8928A5B020F3ACF9002E1A60 /* City.swift */,
 				8928A58620F3A9F5002E1A60 /* Main.storyboard */,
 				8928A58920F3A9F5002E1A60 /* Assets.xcassets */,
 				8928A58B20F3A9F5002E1A60 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				8928A58520F3A9F5002E1A60 /* DetailViewController.swift in Sources */,
 				8928A58320F3A9F5002E1A60 /* MasterViewController.swift in Sources */,
+				8928A5B120F3ACF9002E1A60 /* City.swift in Sources */,
 				8928A58120F3A9F5002E1A60 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
